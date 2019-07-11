@@ -1,4 +1,6 @@
 <?php
 
-hello
 ?>
+
+</body>
+</html>
